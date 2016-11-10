@@ -75,7 +75,7 @@ I am a realist that above principles will not always be possible to follow as we
 	Development of the Dodentocht subscription application using the belgian eID
 	Development of the iWish.be service.
 	Development of the iWish.be iOS app.
-	**Techinical envorinoment** MySQL, Hibernate, Guice, Jersey, OpenSAML, WSS4J, XMLSec, Bouncycastle, JUnit, EasyMock, angularJS, Tomcat, AWS, Objective-C, Cocoapods, TrustKit
+	**Technical Environment** MySQL, Hibernate, Guice, Jersey, OpenSAML, WSS4J, XMLSec, Bouncycastle, JUnit, EasyMock, angularJS, Tomcat, AWS, Objective-C, Cocoapods, TrustKit
 
 **FedICT** *Software engineer* __2007 to 2011__
 	Development on a number of projects for the belgian eID (jtrust, eid-applet, eid-idp, eid-dss, eid-trust-service)
