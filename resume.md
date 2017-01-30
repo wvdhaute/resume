@@ -30,7 +30,8 @@ Daily standups can lead to interesting coffee break/lunch time discussions but s
 Regularly, time should be allocated to reflect, should some code be cleaned up, can we improve a project from things learned in another project, are there certain "annoyances" in the development cycle that can be improved, ...
 
 I am a realist that above principles will not always be possible to follow as we don't live in a perfect world and sometimes deadlines just have to made. Yet I do believe that if they are used from the start, at all times a best effort is done and periodically time is allocated to clean up, this will lead to faster development cycles, less bugs and better maintainable code.
- 
+
+ 
 ------
 
 ### Technical
@@ -66,6 +67,11 @@ I am a realist that above principles will not always be possible to follow as we
 ------
 
 ### Experience
+
+**CounterFort ** *Software engineer* __2017 to ...__
+    Responsible for the brand websites of the Cortina Group (Patrick, SafetyJogger, Sprox, ...)
+    Development of backend for iPad dealer app
+**Technical Environment** DB2, Hibernate, Spring, Jersey, Angular, Tomcat
 
 **linkID NV** *Software engineer* __2007 to 2016__
 	Development of the linkID user centric identity/payment platform.
