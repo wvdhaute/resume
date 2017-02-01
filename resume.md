@@ -37,23 +37,28 @@ I am a realist that above principles will not always be possible to follow as we
 ### Technical
 
 1. Java
-2. iOS
+2. iOS (ObjC, basic Swift)
 2. Android
 3. Git / SVN
 1. Maven
 2. Cocoapods
 4. J2EE
-5. Guice
 5. WS-*
 6. XML DSIG
 7. OASIS DSS
 6. SAML 2.0 / OpenID / OAuth 2.0
 7. SOAP
+5. Guice
+5. Spring
+5. EJB 3
 8. JSON
 9. Protocol buffers
-1. angularJS
+1. angular (1/2)
+1. Webpack
+1. Grunt
 2. Wicket
 3. JSF
+4. JSP
 6. Amazon Web Services
 4. Tomcat
 5. JBoss
