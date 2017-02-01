@@ -131,5 +131,6 @@ I am a realist that above principles will not always be possible to follow as we
 
 * <a href=https://github.com/wvdhaute class=not-printed>GitHub</a>
 * <a href=https://code.google.com/u/114645500443677745358/ class=not-printed>Google Code</a>
+* <a href=http://stackoverflow.com/users/1537599/wvdhaute class=not-printed>StackOverflow</a>
 * <a href=https://twitter.com/wimvandenhaute class=not-printed>Twitter</a>
 * <a href=https://www.linkedin.com/in/wimvandenhaute class=not-printed>LinkedIn</a>
