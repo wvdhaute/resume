@@ -37,37 +37,51 @@ I am a realist that above principles will not always be possible to follow as we
 ### Technical
 
 1. Java
-2. iOS (ObjC, basic Swift)
-2. Android
-3. Git / SVN
+1. iOS (ObjC, basic Swift)
+1. Android
+1. Git / SVN
 1. Maven
-2. Cocoapods
-4. J2EE
-5. WS-*
-6. XML DSIG
-7. OASIS DSS
-6. SAML 2.0 / OpenID / OAuth 2.0
-7. SOAP
-5. Guice
-5. Spring
-5. EJB 3
-8. JSON
-9. Protocol buffers
+1. Cocoapods
+1. J2EE
+1. JPA (Hibernate)
+1. JMS, JAX-RS, JAX-WS, ...
+1. AOP
+1. WS-*
+1. XML DSIG
+1. OASIS DSS
+1. SAML 2.0 / OpenID / OAuth 2.0
+1. PKI, OCSP, CRL
+1. XAdES
+1. SOAP
+1. &nbsp;
+1. Guice
+1. Spring IoC
+1. EJB 3
+1. JSON
+1. Protocol buffers
+1. XML
 1. angular (1/2)
 1. Webpack
 1. Grunt
-2. Wicket
-3. JSF
-4. JSP
-6. Amazon Web Services
-4. Tomcat
-5. JBoss
-7. PKI
-8. Smartcards
-9. Belgian eID
-10. C++
-11. C
-12. lex / yacc
+1. Wicket
+1. JSF (Richfaces, ..., Seam)
+1. JSP
+1. Amazon Web Services
+1. Tomcat
+1. JBoss
+1. Smartcards
+1. Belgian eID
+1. Java card API
+1. C++
+1. C
+1. lex / yacc
+1. MySQL
+1. PostgreSQL
+1. DB2
+1. Oracle 9i
+
+An overview of technologies, languages, frameworks, ... I have worked with over the years. Obviously some might be a bit further down in the back of my head but it's still in there somewhere :)
+I have grouped them a bit together per domain.
 
 ------
 
